@@ -9,7 +9,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-## I'm a Developer, Entrepreneur and Spritual Seeker!!
+## I'm a Developer, an Entrepreneur, and a Spiritual Seeker!!
 
 - ⛳️ Long Term Goals:
   - Build my programming language
