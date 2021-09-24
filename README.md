@@ -78,6 +78,8 @@
 
 | Title                                                                                           | Description                                                                                                                    | Status                                                    |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| World of JavaScript | Documenting anything and everything in one place related to JavaScript and build community around it. | Started |
+| World of Flutter | Documenting anything and everything in one place related to Flutter and build community around it. | Started |
 | Online Education Portal                                                                         | This was basically my startup idea which I was working on since 2015                                                           | Deprecated                                                |
 | Mandiram                                                                                        | Mandiram is a social network for Mandirs(Hindu Temples) where devotees can connect with Mandirs and build community around it. | Live on Android Play Store                                |
 | hbarve1.com                                                                                     | My own portfolio website.                                                                                                      | Work in progress for v3.0                                 |
