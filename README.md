@@ -25,6 +25,8 @@
   <!-- - 😄 Pronouns: ... -->
   <!-- - 👯 I’m looking to collaborate on ... -->
 
+<hr />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -35,6 +37,8 @@
 <br />
 
 <br />
+<hr />
+
 
 ### Languages and Tools:
 
@@ -55,6 +59,7 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" />
+
 <img align="left" alt="Deno" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" />
 <img align="left" alt="Deno" width="85px" src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
@@ -63,19 +68,25 @@
 <img align="left" alt="Deno" width="26px" src="https://github.com/microsoft/vscode-docs/raw/main/images/logo-stable.png" />
 
 <br />
+<br />
 
 <hr />
 
-## Projects
+## Side Projects
+
+**NOTE**: will add more projects here.
 
 | Title                                                                                           | Description                                                                                                                    | Status                                                    |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| Online Education Portal                                                                         | This was basically my startup idea which I was working on since 2015                                                           | Depricated                                                |
+| World of JavaScript | Documenting anything and everything in one place related to JavaScript and build community around it. | Started |
+| World of Flutter | Documenting anything and everything in one place related to Flutter and build community around it. | Started |
+| Online Education Portal                                                                         | This was basically my startup idea which I was working on since 2015                                                           | Deprecated                                                |
 | Mandiram                                                                                        | Mandiram is a social network for Mandirs(Hindu Temples) where devotees can connect with Mandirs and build community around it. | Live on Android Play Store                                |
 | hbarve1.com                                                                                     | My own portfolio website.                                                                                                      | Work in progress for v3.0                                 |
 | Sick Fits                                                                                       | Advance React.js & GraphQL course by @wesbos                                                                                   | Offline, need to update this code and redeploy on server. |
 | Doorstepshoppee                                                                                 | ecommarce platform for practice                                                                                                | Offline, need to update this and redeloy                  |
 | [github-action-firebase-functions](https://github.com/hbarve1/github-action-firebase-functions) | Github action code to deloy on firebase functions                                                                              | Live                                                      |
+
 
 <hr />
 
