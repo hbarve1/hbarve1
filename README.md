@@ -78,7 +78,7 @@
 
 | Title                                                                                           | Description                                                                                                                    | Status                                                    |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| Charts & Graphs | Documenting and Practicing all graphs/charts library with React.js | [![Website](https://img.shields.io/website?label=hbarve1.com&style=for-the-badge&url=https%3A%2F%2Fcharts-and-graphs.vercel.app)](https://charts-and-graphs.vercel.app) |
+| Charts & Graphs | Documenting and Practicing all graphs/charts library with React.js | [![Website](https://img.shields.io/website?label=Charts%20And%20Graphs&style=for-the-badge&url=https%3A%2F%2Fcharts-and-graphs.vercel.app)](https://charts-and-graphs.vercel.app) |
 | World of JavaScript | Documenting anything and everything in one place related to JavaScript and build community around it. | Started |
 | World of Flutter | Documenting anything and everything in one place related to Flutter and build community around it. | Started |
 | Online Education Portal                                                                         | This was basically my startup idea which I was working on since 2015                                                           | Deprecated                                                |
