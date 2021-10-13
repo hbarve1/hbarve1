@@ -78,6 +78,7 @@
 
 | Title                                                                                           | Description                                                                                                                    | Status                                                    |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| Visualise | Mind Map Visualisation for JavaScript and it's ecosystem. | [![Website](https://img.shields.io/website?label=Visualise&style=for-the-badge&url=https%3A%2F%2Fvisualise.netlify.app)](https://visualise.netlify.app) |
 | Charts & Graphs | Documenting and Practicing all graphs/charts library with React.js | [![Website](https://img.shields.io/website?label=Charts%20And%20Graphs&style=for-the-badge&url=https%3A%2F%2Fcharts-and-graphs.vercel.app)](https://charts-and-graphs.vercel.app) |
 | World of JavaScript | Documenting anything and everything in one place related to JavaScript and build community around it. | Started |
 | World of Flutter | Documenting anything and everything in one place related to Flutter and build community around it. | Started |
