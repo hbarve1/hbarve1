@@ -65,6 +65,7 @@
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Google Cloud" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />
 <img align="left" alt="VSCode" width="26px" src="https://github.com/microsoft/vscode-docs/raw/main/images/logo-stable.png" />
+<img align="left" alt="Flutter" width="26px" src="https://www.bing.com/th?id=OIP.ilC2Aqp5sZd1wi0CopD1HwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" />
 
 <br />
 <br />
