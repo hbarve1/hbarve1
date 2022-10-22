@@ -91,7 +91,6 @@
 | [github-action-firebase-functions](https://github.com/hbarve1/github-action-firebase-functions) | Github action code to deloy on firebase functions                                                                              | Live                                                      |
 
 
-<hr />
 
 <br />
 
@@ -104,6 +103,8 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+---
 
 <details>
   <summary>⚡ GitHub Stats</summary>
