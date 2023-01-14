@@ -50,7 +50,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg" />
 <img align="left" alt="Gatsby" width="26px" src="https://seekicon.com/free-icon-download/gatsby_2.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://bs-uploads.toptal.io/blackfish-uploads/skill_page/content/logo_file/logo/6212/GraphQL_Logo.svg-490ae3deb7c0f056c849d7463fb8ab39.png" />
-
 <img align="left" alt="MongoDB" width="26px" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" />
 <img align="left" alt="Git" width="26px" src="https://msysgit.github.io/img/git_logo.png" />
 <img align="left" alt="GitHub" width="26px" src="https://th.bing.com/th/id/R.734888c84d95d28b36728ac33186cab3?rik=EyUQGBjtSbMjVw&riu=http%3a%2f%2fpngimg.com%2fuploads%2fgithub%2fgithub_PNG80.png&ehk=sCQlSHnb7Wc8WNPgOilokXbf8jL4g20yv7QFEFpl6ko%3d&risl=&pid=ImgRaw&r=0" />
@@ -60,9 +59,7 @@
 <img align="left" alt="Deno" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ln_BKFZ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/28hitofsvqhhktfnf1y1.png" />
 <img align="left" alt="Hapi" width="26px" src="https://triveacademy.com/static/a51532d05eb8460747b7207862c647ab/2b0be/hapi-logo.png" />
 <img align="left" alt="Dart" width="26px" src="https://th.bing.com/th/id/R.43e96568147a7318e865503c073368c2?rik=hWxV6SIVuCq0MQ&riu=http%3a%2f%2fwww.zdnet.de%2fwp-content%2fuploads%2f2013%2f11%2fdart-logo-google-250x250.png&ehk=cAumqVKbZ%2fOSaS1c1Oqzr%2f%2f9wsn3x9vhex7Kdu0KuKQ%3d&risl=&pid=ImgRaw&r=0" />
-
 <img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />
-
 <img align="left" alt="AWS" width="26px" src="https://1.bp.blogspot.com/-QKjDDd7gMv0/YInQNxk0uQI/AAAAAAAA7I8/K0p9rosS_Q8lB3U5ZJmMnlhpiQa5uQ35QCLcBGAsYHQ/w400-h240/512px-Amazon_Web_Services_Logo.svg.png" />
 <img align="left" alt="Google Cloud" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />
 <img align="left" alt="VSCode" width="26px" src="https://github.com/microsoft/vscode-docs/raw/main/images/logo-stable.png" />
