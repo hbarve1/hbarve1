@@ -42,26 +42,26 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" />
+<img align="left" alt="CSS3" width="26px" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://th.bing.com/th/id/R.e6d82362f50c26c1b0e6186b99e18e3c?rik=ZkiNhqWudt2EYQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-PTty3CfTGnA%2fTpZOEjTQ_WI%2fAAAAAAAAAeo%2fKeKt_D5X2xo%2fs1600%2fjs.jpg&ehk=uLz7cG48BbXqyb7LS1GN3v3uFyOhkFlskPBBnFx4ryc%3d&risl=&pid=ImgRaw&r=0" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="React" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" />
+<img align="left" alt="Node.js" width="26px" src="https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg" />
+<img align="left" alt="Gatsby" width="26px" src="https://seekicon.com/free-icon-download/gatsby_2.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://bs-uploads.toptal.io/blackfish-uploads/skill_page/content/logo_file/logo/6212/GraphQL_Logo.svg-490ae3deb7c0f056c849d7463fb8ab39.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/github-3691248-3073768.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Docker" width="26px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://i1.wp.com/albertfattal.com/wp-content/uploads/2018/03/Tensorflow_logo.svg.png?ssl=1" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="Deno" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ln_BKFZ7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/28hitofsvqhhktfnf1y1.png" />
 <img align="left" alt="Hapi" width="26px" src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" />
-<img align="left" alt="Dart" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" />
+<img align="left" alt="Dart" width="26px" src="https://th.bing.com/th/id/R.43e96568147a7318e865503c073368c2?rik=hWxV6SIVuCq0MQ&riu=http%3a%2f%2fwww.zdnet.de%2fwp-content%2fuploads%2f2013%2f11%2fdart-logo-google-250x250.png&ehk=cAumqVKbZ%2fOSaS1c1Oqzr%2f%2f9wsn3x9vhex7Kdu0KuKQ%3d&risl=&pid=ImgRaw&r=0" />
 
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="Firebase" width="26px" src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" />
 
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Google Cloud" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />
