@@ -30,9 +30,9 @@
 ### Connect with me:
 
 <!---[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] --->
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
 
 <br />
 
@@ -91,9 +91,9 @@
 
 <br />
 
----
 
-<details>
+
+<!--<details>
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -101,9 +101,9 @@
 
 </details>
 
----
 
-<details>
+
+<!--<details>
   <summary>⚡ GitHub Stats</summary>
 
   <img align="left" alt="hbarve1's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hbarve1&show_icons=true&hide_border=true" />
