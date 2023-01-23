@@ -91,6 +91,11 @@
 
 <br />
 
+<hr />
+
+### ⚡GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=hbarve1"/>
 
 
 <!--<details>
