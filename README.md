@@ -87,7 +87,8 @@
 | Doorstepshoppee                                                                                 | ecommarce platform for practice                                                                                                | Offline, need to update this and redeloy                  |
 | [github-action-firebase-functions](https://github.com/hbarve1/github-action-firebase-functions) | Github action code to deloy on firebase functions                                                                              | Live                                                      |
 | RNCamping | Native apps for Android | Work in progress
-
+|[Html5 Canvas](https://hbarve1-html5-canvas-1.onrender.com)|Created a React.js App using Vite React.js |Live
+|[Html5 Infinite Canvas](https://hbarve1-html5-infinite-canvas.onrender.com)|Vite + TS|Live
 
 <br />
 
