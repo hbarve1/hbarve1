@@ -16,9 +16,13 @@
   - Learn Machine Learning on Browser
   - Build a community of Professionals in Code for Dharma
   - Build a community of IT Professionals for Code for Bharat
-- 🎯 2021 Goal: Practice all Data structures and Algorithms in Typescript.
+- 🎯 2023 Goal: 
+  - [ ] Practice all Data structures and Algorithms in Typescript.
+  - [ ] Rust
+  - [ ] WebAssembly
+  - [ ] HTML5 Canvas
+  - [ ] Flutter
 - 🔭 I'm currently working on my side project, **Code for Dharma**
-- 🌱 I'm currently learning **Flutter**
 - 🤔 I'm looking for help with Compiler Design for building my Programming Language.
 - 💬 Ask me about anything related to JavaScript, React.js & Node.js
 - ⚡ Fun fact: I'm an active yoga practitioner and love to learn about ancient Indic knowledge about spirituality.
