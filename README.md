@@ -90,6 +90,8 @@
 |[Html5 Canvas](https://hbarve1-html5-canvas-1.onrender.com)|Created a React.js App using Vite React.js |Live
 |[Html5 Infinite Canvas](https://hbarve1-html5-infinite-canvas.onrender.com)|Vite + TS|Live
 |[Flexible Tree](https://hbarve1-flexible-tree-d3js-canvas.onrender.com)|D3js Canvas|Live
+|[Zoom](https://hbarve1-flexible-tree-d3js-canvas.onrender.com)|Html5 Canvas|Live
+
 <br />
 
 <hr />
