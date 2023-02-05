@@ -33,10 +33,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!---[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] --->
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
 
 <br />
 
@@ -46,31 +46,28 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="Hapi" width="26px" src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" />
-<img align="left" alt="Dart" width="26px" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" />
-
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/512/html-5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/fluency/512/css3.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
+<!---<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/512/docker.png" />--->
+<img align="left" alt="React" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" />
+<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/fluency/512/node-js.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://img.icons8.com/fluency/512/gatsbyjs.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/color/512/graphql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/512/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/512/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/512/github.png" />
+<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/512/docker.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/512/tensorflow.png" />
+<img align="left" alt="Express" width="26px" src="https://www.mementotech.in/assets/images/icons/express.png" />
+<img align="left" alt="Deno" width="26px" src="https://img.icons8.com/color/512/deno.png" />
+<img align="left" alt="Hapi" width="26px" src="https://triveacademy.com/static/a51532d05eb8460747b7207862c647ab/2b0be/hapi-logo.png" />
+<img align="left" alt="Dart" width="26px" src="https://img.icons8.com/color/512/dart.png" />
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/512/firebase.png" />
+<img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/512/amazon-web-services.png" />
 <img align="left" alt="Google Cloud" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />
-<img align="left" alt="VSCode" width="26px" src="https://github.com/microsoft/vscode-docs/raw/main/images/logo-stable.png" />
-<img align="left" alt="Flutter" width="26px" src="https://www.bing.com/th?id=OIP.ilC2Aqp5sZd1wi0CopD1HwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" />
+<img align="left" alt="VSCode" width="26px" src="https://img.icons8.com/fluency/512/visual-studio.png" />
+<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/512/flutter.png" />
 
 <br />
 <br />
@@ -93,14 +90,24 @@
 | Sick Fits                                                                                       | Advance React.js & GraphQL course by @wesbos                                                                                   | Offline, need to update this code and redeploy on server. |
 | Doorstepshoppee                                                                                 | ecommarce platform for practice                                                                                                | Offline, need to update this and redeloy                  |
 | [github-action-firebase-functions](https://github.com/hbarve1/github-action-firebase-functions) | Github action code to deloy on firebase functions                                                                              | Live                                                      |
-
-
+| RNCamping | Native apps for Android | Work in progress
+|[Html5 Canvas](https://hbarve1-html5-canvas-1.onrender.com)|Created a React.js App using Vite React.js |Live
+|[Html5 Infinite Canvas](https://hbarve1-html5-infinite-canvas.onrender.com)|Vite + TS|Live
 
 <br />
 
----
+<hr />
 
+
+  
 <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hbarve1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
+
+<!--<details>
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -108,9 +115,9 @@
 
 </details>
 
----
 
-<details>
+
+<!--<details>
   <summary>⚡ GitHub Stats</summary>
 
   <img align="left" alt="hbarve1's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hbarve1&show_icons=true&hide_border=true" />
