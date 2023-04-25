@@ -46,7 +46,7 @@
 
 ## Portfolio Website
 
-I have moved all the info about my in my portfolio web app.
+I have moved all the info about skills, projects in my portfolio web app.
 
 - [Skills](https://hbarve1.com/skills)
 - [Projects](https://hbarve1.com/projects)
