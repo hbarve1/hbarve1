@@ -2,9 +2,9 @@
 
 # Himank Barve
 
-[![Website](https://img.shields.io/website?label=hbarve1.com&style=for-the-badge&url=https%3A%2F%2Fhbarve1.com)](https://hbarve1.com){:target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hbarve1){:target="_blank"}
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/hbarve1){:target="_blank"}
+<a href="https://hbarve1.com" target="_blank" rel="noopener noreferrer">![Website](https://img.shields.io/website?label=hbarve1.com&style=for-the-badge&url=https%3A%2F%2Fhbarve1.com)</a>
+<a href="https://linkedin.com/in/hbarve1" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)</a>
+<a href="https://twitter.com/hbarve1" target="_blank" rel="noopener noreferrer">![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)</a>
 
 ## 👨‍💻 Senior Full Stack Developer
 
@@ -54,10 +54,10 @@
 
 ## 📫 Connect With Me
 
-- [Portfolio](https://hbarve1.com)
-- [LinkedIn](https://linkedin.com/in/hbarve1)
-- [Twitter](https://twitter.com/hbarve1)
-- [GitHub](https://github.com/hbarve1)
+- <a href="https://hbarve1.com" target="_blank" rel="noopener noreferrer">Portfolio</a>
+- <a href="https://linkedin.com/in/hbarve1" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- <a href="https://twitter.com/hbarve1" target="_blank" rel="noopener noreferrer">Twitter</a>
+- <a href="https://github.com/hbarve1" target="_blank" rel="noopener noreferrer">GitHub</a>
 
 ---
 
