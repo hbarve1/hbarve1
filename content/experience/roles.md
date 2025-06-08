@@ -2,7 +2,7 @@
 
 ## Current Role
 ### Senior Full Stack Developer
-**Company Name** | 2020 - Present
+**DAIS ** | 2024 - Present
 - Lead full-stack development initiatives
 - Mentor junior developers
 - Implement best practices and coding standards
