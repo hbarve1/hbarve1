@@ -14,11 +14,17 @@
 - ⛳️ Long Term Goals:
   - Build my programming language
   - Learn Machine Learning on Browser
-  - Build a community of Professionals in Code for Dharma
-  - Build a community of IT Professionals for Code for Bharat
-- 🎯 2021 Goal: Practice all Data structures and Algorithms in Typescript.
-- 🔭 I'm currently working on my side project, **Code for Dharma**
-- 🌱 I'm currently learning **Flutter**
+  - Working on my Stealth Startup
+- 🎯 2023 Goal:
+  - [ ] Practice all Data structures and Algorithms in Typescript
+    - [ ]  TDD
+    - [ ]  Data Visualisation.
+  - [ ] Rust
+  - [ ] WebAssembly
+  - [x] HTML5 Canvas
+  - [x] PWA
+  - [x] T3 Stack
+<!-- - 🔭 I'm currently working on my side project, **Code for Dharma** -->
 - 🤔 I'm looking for help with Compiler Design for building my Programming Language.
 - 💬 Ask me about anything related to JavaScript, React.js & Node.js
 - ⚡ Fun fact: I'm an active yoga practitioner and love to learn about ancient Indic knowledge about spirituality.
@@ -27,46 +33,24 @@
 
 <hr />
 
-### Connect with me:
+### Connect with me
 
 <!---[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] --->
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" style="padding: 2px; margin: 2px;" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="padding: 2px; margin: 2px;" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" style="padding: 2px; margin: 2px;" />
 
 <br />
-
 <br />
 <hr />
 
+## Portfolio Website
 
-### Languages and Tools:
+I have moved all the info about skills, projects in my portfolio web app.
 
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/512/html-5.png" />
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/fluency/512/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/512/javascript.png" />
-<!---<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/512/docker.png" />--->
-<img align="left" alt="React" width="26px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" />
-<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/fluency/512/node-js.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://img.icons8.com/fluency/512/gatsbyjs.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/color/512/graphql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/512/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/512/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluency/512/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/512/docker.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://img.icons8.com/color/512/tensorflow.png" />
-<img align="left" alt="Express" width="26px" src="https://www.mementotech.in/assets/images/icons/express.png" />
-<img align="left" alt="Deno" width="26px" src="https://img.icons8.com/color/512/deno.png" />
-<img align="left" alt="Hapi" width="26px" src="https://triveacademy.com/static/a51532d05eb8460747b7207862c647ab/2b0be/hapi-logo.png" />
-<img align="left" alt="Dart" width="26px" src="https://img.icons8.com/color/512/dart.png" />
-<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/512/firebase.png" />
-<img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/512/amazon-web-services.png" />
-<img align="left" alt="Google Cloud" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />
-<img align="left" alt="VSCode" width="26px" src="https://img.icons8.com/fluency/512/visual-studio.png" />
-<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/512/flutter.png" />
-
-<br />
-<br />
+- [Skills](https://hbarve1.com/skills)
+- [Projects](https://hbarve1.com/projects)
+- [Blogs](https://hbarve1.com/articles)
 
 <hr />
 
