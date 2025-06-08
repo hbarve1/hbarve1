@@ -10,7 +10,9 @@
 
 ## 👨‍💻 Senior Full Stack Developer
 
-> 10+ years of experience in full-stack development, specializing in JavaScript/TypeScript ecosystem
+> 10+ years of experience in full-stack development, specializing in JavaScript/TypeScript ecosystem.
+
+> Building products and services for the betterment of the World.
 
 ## 🌟 Current Focus
 
@@ -19,21 +21,24 @@
 - Contributing to open source
 - Writing technical articles
 - Exploring WebAssembly and Rust
+- Exploring Quantum Computing
+- Exploring Compiler Design
+- Exploring Vibe Coding
 
 ## 📚 Quick Links
 
 ### 💼 Professional Experience
 - [👥 Roles & Responsibilities](content/experience/roles.md)
-- [🚀 Major Projects](content/experience/projects.md)
+- [🚀 Major Projects](content/experience/projects/projects.md)
 - [🏆 Key Achievements](content/experience/achievements.md)
 
 ### 🛠️ Technical Expertise
 - [📊 Complete Technology Stack](content/expertise/tech-stack.md)
-- [💻 Programming Languages](content/expertise/languages.md)
-- [🔧 Frameworks & Libraries](content/expertise/frameworks.md)
-- [🗄️ Databases & Storage](content/expertise/databases.md)
-- [☁️ Cloud Platforms](content/expertise/cloud.md)
-- [🛠️ Development Tools](content/expertise/tools.md)
+<!-- - [💻 Programming Languages](content/expertise/languages.md) -->
+<!-- - [🔧 Frameworks & Libraries](content/expertise/frameworks.md) -->
+<!-- - [🗄️ Databases & Storage](content/expertise/databases.md) -->
+<!-- - [☁️ Cloud Platforms](content/expertise/cloud.md) -->
+<!-- - [🛠️ Development Tools](content/expertise/tools.md) -->
 
 ### 📖 Education & Learning
 - [🎓 Academic Background](content/education/degrees.md)
