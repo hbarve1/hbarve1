@@ -77,7 +77,7 @@ Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or 
 | **Roadflex** | Credit card for trucking industry | Founding Senior Full Stack Dev | React, Next.js, Node.js, GCP | [Live](https://www.roadflex.com) |
 | **HST Powers** | Clean energy buy sell platform | Senior Software Dev | AngularJS, React, Node.js, AWS | [Live](https://www.hstpowers.com) |
 | **Acquire IO** | AI driven customer support platform | Senior Software Dev | Angular.js, React, Node.js, Azure | [Live](https://www.acquire.io) |
-| **Mayash Foundation** | NGO for social causes | Founder & CEO | Web, Social | [Live](https://mayash.org) |
+| **Mayash Foundation** | NGO for social causes | Founder & CEO | Web, Social | [Live](https://www.mayash.org) |
 | **Visualise** | Mind Map Visualization for JavaScript ecosystem | Creator, Full Stack Dev | React, D3.js, Canvas | [Live](https://visualise.netlify.app) |
 | **Charts & Graphs** | Chart library documentation and examples | Creator, Frontend | React, Chart.js, D3.js | [Live](https://charts-and-graphs.vercel.app) |
 | **HTML5 Canvas Projects** | Interactive canvas apps and animations | Creator | React, Canvas API, Vite | [Live](https://hbarve1-html5-canvas-1.onrender.com) |
