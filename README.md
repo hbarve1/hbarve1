@@ -27,7 +27,7 @@ I'm a **senior full stack software developer with 10+ years of industry experien
 - **Machine Learning in the Browser** - Pushing the boundaries of client-side AI
 
 ### 🛠️ Technical Expertise
-- **Langauge**: TypeScript, JavaScript (ES6+), Rust, Python, Go, Dart
+- **Language**: TypeScript, JavaScript (ES6+), Rust, Python, Go, Dart
 - **Frontend**: React.js, Next.js, HTML5 Canvas, PWA, Modern, TailwindCSS, d3.js, 3d Visualisation,
 - **Backend**: Node.js, Python, Rust, GraphQL, REST APIs, Serverless Functions, Express.js
 - **AI/ML**: OpenAI, Claude AI, Gemini, Tensorflow.js, AWS Bedrock, Prompt Engineering
