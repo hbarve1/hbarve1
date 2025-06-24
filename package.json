@@ -1,6 +1,6 @@
 {
   "name": "hbarve1",
-  "version": "1.0.1",
+  "version": "2025.06.24",
   "description": "<!-- **hbarve1/hbarve1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/hbarve1/hbarve1#readme",
   "devDependencies": {
-    "prettier": "^2.4.1"
+    "prettier": "^3.6.0"
   }
 }

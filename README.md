@@ -3,117 +3,87 @@
 # Hi there 👋, I'm Himank aka @hbarve1
 
 [![Website](https://img.shields.io/website?label=hbarve1.com&style=for-the-badge&url=https%3A%2F%2Fhbarve1.com)](https://hbarve1.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hbarve1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhbarve1&screen_name=hbarve1)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hbarve1?style=for-the-badge&logo=x)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhbarve1&screen_name=hbarve1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hbarve1)
 
-<!-- **hbarve1/hbarve1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## 🚀 Senior Full Stack Software Developer | Entrepreneur | Spiritual Seeker
 
-<!-- Here are some ideas to get you started: -->
+I'm a **senior full stack software developer with 10+ years of industry experience**, specializing in modern web technologies, AI/ML integration, and building scalable applications. I combine technical expertise with entrepreneurial spirit and spiritual wisdom to create meaningful solutions.
 
-## I'm a Developer, an Entrepreneur, and a Spiritual Seeker!!
+**Location**: Bangalore, India | **Experience**: 10+ Years | **Remote Work**: ✅
 
-- ⛳️ Long Term Goals:
-  - Build my programming language
-  - Learn Machine Learning on Browser
-  - Working on my Stealth Startup
-- 🎯 2023 Goal:
-  - [ ] Practice all Data structures and Algorithms in Typescript
-    - [ ]  TDD
-    - [ ]  Data Visualisation.
-  - [ ] Rust
-  - [ ] WebAssembly
-  - [x] HTML5 Canvas
-  - [x] PWA
-  - [x] T3 Stack
-<!-- - 🔭 I'm currently working on my side project, **Code for Dharma** -->
-- 🤔 I'm looking for help with Compiler Design for building my Programming Language.
-- 💬 Ask me about anything related to JavaScript, React.js & Node.js
-- ⚡ Fun fact: I'm an active yoga practitioner and love to learn about ancient Indic knowledge about spirituality.
-  <!-- - 😄 Pronouns: ... -->
-  <!-- - 👯 I’m looking to collaborate on ... -->
+## 🎯 Long-term Vision
 
-<hr />
+- **🔧 Build My Programming Language** - Creating a language that fixes the flows in JavaScript and improve development experience.
+- **🤖 Browser-based Machine Learning** - Democratizing AI through web technologies
+- **🚀 Stealth Startup** - Building innovative solutions that make a difference
+- **🌍 Community Building** - Fostering knowledge sharing and collaboration in tech
+- **🏛️ Social Impact** - Leading Mayash Foundation for Dharma, Nature, Nation and humanity.
 
-### Connect with me
+### 🎯 Current Focus
+- **AI Orchestration & Workflows** - Building enterprise-grade AI systems with multiple LLM integrations
+- **Event-Driven Serverless Architecture** - Scalable and secure cloud-native solutions
+- **Building my own programming language** - Exploring compiler design and language theory
+- **Machine Learning in the Browser** - Pushing the boundaries of client-side AI
 
-<!---[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] --->
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" style="padding: 2px; margin: 2px;" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="padding: 2px; margin: 2px;" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" style="padding: 2px; margin: 2px;" />
+### 🛠️ Technical Expertise
+- **Language**: TypeScript, JavaScript (ES6+), Rust, Python, Go, Dart
+- **Frontend**: React.js, Next.js, HTML5 Canvas, PWA, Modern, TailwindCSS, d3.js, 3d Visualisation,
+- **Backend**: Node.js, Python, Rust, GraphQL, REST APIs, Serverless Functions, Express.js
+- **AI/ML**: OpenAI, Claude AI, Gemini, Tensorflow.js, AWS Bedrock, Prompt Engineering
+- **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes (k8s), GitHub Actions, Terraform, OpenTofu, CI/CD
+- **Databases**: PostgreSQL, MongoDB, Redis, DynamoDB, MySQL, ElasticSearch, Firestore
+- **Emerging Tech**: WebAssembly, Blockchain (Ethereum, Solidity), Flutter, React Native
+- **Tools & Practices**: TDD, Data Visualization (D3.js), Git, Agile Development, Microservices
 
-<br />
-<br />
-<hr />
+### 🎯 2025-2026 Goals
+- [ ] **Data Visualization Mastery** - Interactive charts and graphs
+- [ ] **Rust & WebAssembly** - Performance-critical applications
 
-## Portfolio Website
+### 🤝 Looking For
+- **Compiler Design Mentorship** - Building my programming language
+- **AI/ML Collaboration** - Advanced AI orchestration and workflow systems
+- **Senior Developer Roles** - Full-stack, AI integration, or technical leadership positions
+- **Knowledge Sharing** - Mentoring junior developers and contributing to the community
 
-I have moved all the info about skills, projects in my portfolio web app.
+### 💬 Let's Connect
+Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or anything related to modern web development**. I love sharing knowledge and learning from others!
 
-- [Skills](https://hbarve1.com/skills)
-- [Projects](https://hbarve1.com/projects)
-- [Blogs](https://hbarve1.com/articles)
+### ⚡ Fun Facts
+- Active yoga practitioner and student of ancient Indic spiritual wisdom
+- Passionate about combining technology with mindfulness practices
+- Building communities around JavaScript and Flutter ecosystems
+- Founded an EdTech startup and an NGO for social causes
 
-<hr />
+---
 
-## Side Projects
+## 🎓 Education & Certifications
 
-**NOTE**: will add more projects here.
+- **Blockchain Expert** - Algoexpert.io (2023)
+- **Algo Expert** - Algoexpert.io (2023)
+- **Engineering Fellow** - Pesto Tech (2021)
+- **B.Tech (Computer Science)** - IIT (ISM), Dhanbad (2011-2015)
 
-| Title                                                                                           | Description                                                                                                                    | Status                                                    |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| Visualise | Mind Map Visualisation for JavaScript and it's ecosystem. | [![Website](https://img.shields.io/website?label=Visualise&style=for-the-badge&url=https%3A%2F%2Fvisualise.netlify.app)](https://visualise.netlify.app) |
-| Charts & Graphs | Documenting and Practicing all graphs/charts library with React.js | [![Website](https://img.shields.io/website?label=Charts%20And%20Graphs&style=for-the-badge&url=https%3A%2F%2Fcharts-and-graphs.vercel.app)](https://charts-and-graphs.vercel.app) |
-| World of JavaScript | Documenting anything and everything in one place related to JavaScript and build community around it. | Started |
-| World of Flutter | Documenting anything and everything in one place related to Flutter and build community around it. | Started |
-| Online Education Portal                                                                         | This was basically my startup idea which I was working on since 2015                                                           | Deprecated                                                |
-| Mandiram                                                                                        | Mandiram is a social network for Mandirs(Hindu Temples) where devotees can connect with Mandirs and build community around it. | Live on Android Play Store                                |
-| hbarve1.com                                                                                     | My own portfolio website.                                                                                                      | Work in progress for v3.0                                 |
-| Sick Fits                                                                                       | Advance React.js & GraphQL course by @wesbos                                                                                   | Offline, need to update this code and redeploy on server. |
-| Doorstepshoppee                                                                                 | ecommarce platform for practice                                                                                                | Offline, need to update this and redeloy                  |
-| [github-action-firebase-functions](https://github.com/hbarve1/github-action-firebase-functions) | Github action code to deloy on firebase functions                                                                              | Live                                                      |
-| RNCamping | Native apps for Android | Work in progress
-|[Html5 Canvas](https://hbarve1-html5-canvas-1.onrender.com)|Created a React.js App using Vite React.js |Live
-|[Html5 Infinite Canvas](https://hbarve1-html5-infinite-canvas.onrender.com)|Vite + TS|Live
-|[Flexible Tree](https://hbarve1-flexible-tree-d3js-canvas.onrender.com)|D3js Canvas|Live
-|[Zoom](https://hbarve1-flexible-tree-d3js-canvas.onrender.com)|Html5 Canvas|Live
+---
 
-<br />
+## 🚀 Projects
 
-<hr />
+| Project Name | Description | Role/Contribution | Tech Stack | Status/Link |
+|--------------|-------------|-------------------|------------|-------------|
+| **DAIS Secure** | Enterprise AI orchestration platform | Senior Software Dev | React, Node.js, Rust, AWS | [Live](https://www.dais.co) |
+| **Cadastral.ai** | AI back office for real estate | Senior Full Stack Dev | React, Next.js, Node.js, Python | [Live](https://cadastral.ai) |
+| **RateGain** | Data analytics for travel industry | Staff Software Dev | React, Node.js, GCP | [Live](https://rategain.com) |
+| **TuMeke** | Safety program web app | Senior Full Stack Dev | React, Node.js, AWS | [Live](https://www.tumeke.io) |
+| **Roadflex** | Credit card for trucking industry | Founding Senior Full Stack Dev | React, Next.js, Node.js, GCP | [Live](https://www.roadflex.com) |
+| **HST Powers** | Clean energy buy sell platform | Senior Software Dev | AngularJS, React, Node.js, AWS | [Live](https://www.hstpowers.com) |
+| **Acquire IO** | AI driven customer support platform | Senior Software Dev | Angular.js, React, Node.js, Azure | [Live](https://www.acquire.io) |
+| **Mayash Foundation** | NGO for social causes | Founder & CEO | Web, Social | [Live](https://mayash.org) |
+| **Visualise** | Mind Map Visualization for JavaScript ecosystem | Creator, Full Stack Dev | React, D3.js, Canvas | [Live](https://visualise.netlify.app) |
+| **Charts & Graphs** | Chart library documentation and examples | Creator, Frontend | React, Chart.js, D3.js | [Live](https://charts-and-graphs.vercel.app) |
+| **HTML5 Canvas Projects** | Interactive canvas apps and animations | Creator | React, Canvas API, Vite | [Live](https://hbarve1-html5-canvas-1.onrender.com) |
+| **Infinite Canvas** | Infinite scrolling and zoom on canvas | Creator | TypeScript, Canvas, Vite | [Live](https://hbarve1-html5-infinite-canvas.onrender.com) |
+| **Flexible Tree** | Interactive tree visualization | Creator | D3.js, Canvas, React | [Live](https://hbarve1-flexible-tree-d3js-canvas.onrender.com) |
 
+---
 
-  
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hbarve1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbarve1&layout=compact&theme=buefy&hide_border=true" /></a>
-</details>
-
-<!--<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-
-
-<!--<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  <img align="left" alt="hbarve1's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hbarve1&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://www.hbarve1.com
-[twitter]: https://www.twitter.com/hbarve1
-[instagram]: https://www.instagram.com/hbarve1
-[linkedin]: https://www.linkedin.com/in/hbarve1
-
-<!-- Reference
-
-https://github.com/codeSTACKr/codeSTACKr
-https://github.com/shorwood/shorwood/blob/main/README.md
-
- -->
+*"Technology is not just about code; it's about creating solutions that serve humanity while staying connected to our spiritual essence."*
