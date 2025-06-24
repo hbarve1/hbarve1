@@ -85,7 +85,6 @@ Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or 
 | **Visualise** | Mind Map Visualization for JavaScript ecosystem | Creator, Full Stack Dev | React, D3.js, Canvas | [Live](https://visualise.netlify.app) |
 | **Charts & Graphs** | Chart library documentation and examples | Creator, Frontend | React, Chart.js, D3.js | [Live](https://charts-and-graphs.vercel.app) |
 | **HTML5 Canvas Projects** | Interactive canvas apps and animations | Creator | React, Canvas API, Vite | [Live](https://hbarve1-html5-canvas-1.onrender.com) |
-| **Infinite Canvas** | Infinite scrolling and zoom on canvas | Creator | TypeScript, Canvas, Vite | [Live](https://hbarve1-html5-infinite-canvas.onrender.com) |
 | **Flexible Tree** | Interactive tree visualization | Creator | D3.js, Canvas, React | [Live](https://hbarve1-flexible-tree-d3js-canvas.onrender.com) |
 
 ---
