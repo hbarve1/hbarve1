@@ -21,6 +21,11 @@ I'm a **senior full stack software engineer with 10+ years of industry experienc
 - **🌍 Community Building** - Fostering knowledge sharing and collaboration in tech
 - **🏛️ Social Impact** - Leading Mayash Foundation for Dharma, Nature, Nation and humanity.
 
+### 🎯 2025-2026 Goals
+- [ ] **Data Visualization Mastery** - Interactive charts and graphs
+- [ ] **Rust & WebAssembly** - Performance-critical applications
+- [ ] **Quantum Computing** - Learn about Quantum Computing
+
 ### 🎯 Current Focus
 - **AI Orchestration & Workflows** - Building enterprise-grade AI systems with multiple LLM integrations
 - **Event-Driven Serverless Architecture** - Scalable and secure cloud-native solutions
@@ -36,11 +41,7 @@ I'm a **senior full stack software engineer with 10+ years of industry experienc
 - **Databases**: PostgreSQL, MongoDB, Redis, DynamoDB, MySQL, ElasticSearch, Firestore
 - **Emerging Tech**: WebAssembly, Blockchain (Ethereum, Solidity), Flutter, React Native
 - **Tools & Practices**: TDD, Data Visualization (D3.js), Git, Agile Development, Microservices
-
-### 🎯 2025-2026 Goals
-- [ ] **Data Visualization Mastery** - Interactive charts and graphs
-- [ ] **Rust & WebAssembly** - Performance-critical applications
-
+  
 ### 🤝 Looking For
 - **Compiler Design Mentorship** - Building my programming language
 - **AI/ML Collaboration** - Advanced AI orchestration and workflow systems
