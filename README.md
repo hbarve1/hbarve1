@@ -67,25 +67,23 @@ Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Status | Tech Stack |
-|---------|-------------|--------|------------|
-| **[Visualise](https://visualise.netlify.app)** | Mind Map Visualization for JavaScript ecosystem | ![Live](https://img.shields.io/website?label=Live&style=for-the-badge&url=https%3A%2F%2Fvisualise.netlify.app) | React, D3.js, Canvas |
-| **[Charts & Graphs](https://charts-and-graphs.vercel.app)** | Comprehensive chart library documentation and examples | ![Live](https://img.shields.io/website?label=Live&style=for-the-badge&url=https%3A%2F%2Fcharts-and-graphs.vercel.app) | React, Chart.js, D3.js |
-| **[HTML5 Canvas Projects](https://hbarve1-html5-canvas-1.onrender.com)** | Interactive canvas applications and animations | ![Live](https://img.shields.io/website?label=Live&style=for-the-badge&url=https%3A%2F%2Fhbarve1-html5-canvas-1.onrender.com) | React, Canvas API, Vite |
-| **[Infinite Canvas](https://hbarve1-html5-infinite-canvas.onrender.com)** | Advanced canvas with infinite scrolling and zoom | ![Live](https://img.shields.io/website?label=Live&style=for-the-badge&url=https%3A%2F%2Fhbarve1-html5-infinite-canvas.onrender.com) | TypeScript, Canvas, Vite |
-| **[Flexible Tree](https://hbarve1-flexible-tree-d3js-canvas.onrender.com)** | Interactive tree visualization with D3.js | ![Live](https://img.shields.io/website?label=Live&style=for-the-badge&url=https%3A%2F%2Fhbarve1-flexible-tree-d3js-canvas.onrender.com) | D3.js, Canvas, React |
-
-### 🏗️ Other Notable Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **World of JavaScript** | Comprehensive JavaScript ecosystem documentation and community | 🚧 In Progress |
-| **World of Flutter** | Flutter development resources and community platform | 🚧 In Progress |
-| **Mandiram** | Social network for Hindu temples and devotees | 📱 Live on Play Store |
-| **RNCamping** | React Native mobile applications | 🚧 In Progress |
-| **GitHub Actions for Firebase** | Automated deployment workflows | 🔧 Live |
+| Project Name | Description | Role/Contribution | Tech Stack | Status/Link |
+|--------------|-------------|-------------------|------------|-------------|
+| **DAIS Secure** | Enterprise AI orchestration platform | Senior Software Dev | React, Node.js, Rust, AWS | [Live](https://www.dais.co) |
+| **Cadastral.ai** | AI back office for real estate | Senior Full Stack Dev | React, Next.js, Node.js, Python | [Live](https://cadastral.ai) |
+| **RateGain** | Data analytics for travel industry | Staff Software Dev | React, Node.js, GCP | [Live](https://rategain.com) |
+| **TuMeke** | Safety program web app | Senior Full Stack Dev | React, Node.js, AWS | [Live](https://www.tumeke.io) |
+| **Roadflex** | Credit card for trucking industry | Founding Senior Full Stack Dev | React, Next.js, Node.js, GCP | [Live](https://www.roadflex.com) |
+| **HST Powers** | Clean energy buy sell platform | Senior Software Dev | AngularJS, React, Node.js, AWS | [Live](https://www.hstpowers.com) |
+| **Acquire IO** | AI driven customer support platform | Senior Software Dev | Angular.js, React, Node.js, Azure | [Live](https://www.acquire.io) |
+| **Mayash Foundation** | NGO for social causes | Founder & CEO | Web, Social | [Live](https://mayash.org) |
+| **Visualise** | Mind Map Visualization for JavaScript ecosystem | Creator, Full Stack Dev | React, D3.js, Canvas | [Live](https://visualise.netlify.app) |
+| **Charts & Graphs** | Chart library documentation and examples | Creator, Frontend | React, Chart.js, D3.js | [Live](https://charts-and-graphs.vercel.app) |
+| **HTML5 Canvas Projects** | Interactive canvas apps and animations | Creator | React, Canvas API, Vite | [Live](https://hbarve1-html5-canvas-1.onrender.com) |
+| **Infinite Canvas** | Infinite scrolling and zoom on canvas | Creator | TypeScript, Canvas, Vite | [Live](https://hbarve1-html5-infinite-canvas.onrender.com) |
+| **Flexible Tree** | Interactive tree visualization | Creator | D3.js, Canvas, React | [Live](https://hbarve1-flexible-tree-d3js-canvas.onrender.com) |
 
 ---
 
