@@ -12,6 +12,14 @@ I'm a **senior full stack software developer with 10+ years of industry experien
 
 **Location**: Bangalore, India | **Experience**: 10+ Years | **Remote Work**: ✅
 
+## 🎯 Long-term Vision
+
+- **🔧 Build My Programming Language** - Creating a language that fixes the flows in JavaScript and improve development experience.
+- **🤖 Browser-based Machine Learning** - Democratizing AI through web technologies
+- **🚀 Stealth Startup** - Building innovative solutions that make a difference
+- **🌍 Community Building** - Fostering knowledge sharing and collaboration in tech
+- **🏛️ Social Impact** - Leading Mayash Foundation for Dharma, Nature, Nation and humanity.
+
 ### 🎯 Current Focus
 - **AI Orchestration & Workflows** - Building enterprise-grade AI systems with multiple LLM integrations
 - **Event-Driven Serverless Architecture** - Scalable and secure cloud-native solutions
@@ -19,21 +27,19 @@ I'm a **senior full stack software developer with 10+ years of industry experien
 - **Machine Learning in the Browser** - Pushing the boundaries of client-side AI
 
 ### 🛠️ Technical Expertise
-- **Frontend**: React.js, Next.js, TypeScript, HTML5 Canvas, PWA, Modern JavaScript (ES6+), TailwindCSS
+- **Langauge**: TypeScript, JavaScript (ES6+), Rust, Python, Go, Dart
+- **Frontend**: React.js, Next.js, HTML5 Canvas, PWA, Modern, TailwindCSS, d3.js, 3d Visualisation,
 - **Backend**: Node.js, Python, Rust, GraphQL, REST APIs, Serverless Functions, Express.js
 - **AI/ML**: OpenAI, Claude AI, Gemini, Tensorflow.js, AWS Bedrock, Prompt Engineering
 - **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions, Terraform, CI/CD
 - **Databases**: PostgreSQL, MongoDB, Redis, DynamoDB, MySQL, ElasticSearch, Firestore
 - **Emerging Tech**: WebAssembly, Blockchain (Ethereum, Solidity), Flutter, React Native
+- **DevOps**: Docker, Kubernetes (k8s), Terraform, OpenTofu
 - **Tools & Practices**: TDD, Data Visualization (D3.js), Git, Agile Development, Microservices
 
 ### 🎯 2025-2026 Goals
-- [ ] **Advanced DSA in TypeScript** with comprehensive TDD approach
 - [ ] **Data Visualization Mastery** - Interactive charts and graphs
 - [ ] **Rust & WebAssembly** - Performance-critical applications
-- [x] **HTML5 Canvas** - Interactive graphics and animations
-- [x] **PWA Development** - Progressive Web Applications
-- [x] **T3 Stack** - Full-stack TypeScript development
 
 ### 🤝 Looking For
 - **Compiler Design Mentorship** - Building my programming language
@@ -130,20 +136,10 @@ Comprehensive showcase of my skills, projects, and technical journey:
 
 ## 🎓 Education & Certifications
 
-- **Engineering Fellow** - Pesto Tech (2021)
-- **B.Tech (Computer Science)** - IIT (ISM), Dhanbad (2011-2015)
 - **Blockchain Expert** - Algoexpert.io (2023)
 - **Algo Expert** - Algoexpert.io (2023)
-
----
-
-## 🎯 Long-term Vision
-
-- **🔧 Build My Programming Language** - Creating a language that bridges modern development with spiritual principles
-- **🤖 Browser-based Machine Learning** - Democratizing AI through web technologies
-- **🚀 Stealth Startup Success** - Building innovative solutions that make a difference
-- **🌍 Community Building** - Fostering knowledge sharing and collaboration in tech
-- **🏛️ Social Impact** - Leading Mayash Foundation for nation and humanity
+- **Engineering Fellow** - Pesto Tech (2021)
+- **B.Tech (Computer Science)** - IIT (ISM), Dhanbad (2011-2015)
 
 ---
 
