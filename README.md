@@ -6,23 +6,26 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hbarve1?style=for-the-badge&logo=x)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhbarve1&screen_name=hbarve1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hbarve1)
 
+## 🚀 Senior Full Stack Software Developer | Entrepreneur | Spiritual Seeker
 
-## 🚀 Senior Software Developer | Entrepreneur | Spiritual Seeker
+I'm a **senior full stack software developer with 10+ years of industry experience**, specializing in modern web technologies, AI/ML integration, and building scalable applications. I combine technical expertise with entrepreneurial spirit and spiritual wisdom to create meaningful solutions.
 
-I'm a **senior software developer with 10+ years of experience** specializing in modern web technologies, full-stack development, and building scalable applications. I combine technical expertise with entrepreneurial spirit and spiritual wisdom to create meaningful solutions.
+**Location**: Bangalore, India | **Experience**: 10+ Years | **Remote Work**: ✅
 
 ### 🎯 Current Focus
+- **AI Orchestration & Workflows** - Building enterprise-grade AI systems with multiple LLM integrations
+- **Event-Driven Serverless Architecture** - Scalable and secure cloud-native solutions
 - **Building my own programming language** - Exploring compiler design and language theory
 - **Machine Learning in the Browser** - Pushing the boundaries of client-side AI
-- **Stealth Startup** - Working on innovative solutions in the tech space
-- **Advanced Data Structures & Algorithms** - Mastering TypeScript implementations with TDD
 
 ### 🛠️ Technical Expertise
-- **Frontend**: React.js, TypeScript, HTML5 Canvas, PWA, Modern JavaScript (ES6+)
-- **Backend**: Node.js, GraphQL, REST APIs, Serverless Functions
-- **Full-Stack**: T3 Stack, Next.js, Vite, Modern Build Tools
-- **Emerging Tech**: Rust, WebAssembly, Machine Learning, Compiler Design
-- **Tools & Practices**: TDD, Data Visualization, Git, CI/CD, Agile Development
+- **Frontend**: React.js, Next.js, TypeScript, HTML5 Canvas, PWA, Modern JavaScript (ES6+), TailwindCSS
+- **Backend**: Node.js, Python, Rust, GraphQL, REST APIs, Serverless Functions, Express.js
+- **AI/ML**: OpenAI, Claude AI, Gemini, Tensorflow.js, AWS Bedrock, Prompt Engineering
+- **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions, Terraform, CI/CD
+- **Databases**: PostgreSQL, MongoDB, Redis, DynamoDB, MySQL, ElasticSearch, Firestore
+- **Emerging Tech**: WebAssembly, Blockchain (Ethereum, Solidity), Flutter, React Native
+- **Tools & Practices**: TDD, Data Visualization (D3.js), Git, Agile Development, Microservices
 
 ### 🎯 2025-2026 Goals
 - [ ] **Advanced DSA in TypeScript** with comprehensive TDD approach
@@ -34,27 +37,62 @@ I'm a **senior software developer with 10+ years of experience** specializing in
 
 ### 🤝 Looking For
 - **Compiler Design Mentorship** - Building my programming language
-- **Collaboration Opportunities** - Open source projects and innovative startups
+- **AI/ML Collaboration** - Advanced AI orchestration and workflow systems
+- **Senior Developer Roles** - Full-stack, AI integration, or technical leadership positions
 - **Knowledge Sharing** - Mentoring junior developers and contributing to the community
 
 ### 💬 Let's Connect
-Ask me about **JavaScript, React.js, Node.js, TypeScript, or anything related to modern web development**. I love sharing knowledge and learning from others!
+Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or anything related to modern web development**. I love sharing knowledge and learning from others!
 
 ### ⚡ Fun Facts
 - Active yoga practitioner and student of ancient Indic spiritual wisdom
 - Passionate about combining technology with mindfulness practices
 - Building communities around JavaScript and Flutter ecosystems
+- Founded an EdTech startup and an NGO for social causes
 
 ---
 
-## 🌐 Connect With Me
+## 💼 Professional Experience
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" style="padding: 2px; margin: 2px;" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" style="padding: 2px; margin: 2px;" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" style="padding: 2px; margin: 2px;" />][instagram]
+### **Senior Software Developer** - Torno Solutions (Remote)
+*Jan 2025 - June 2025*
+- **dais.co (Client)** - Building enterprise-grade AI orchestration
+  - Built event-driven serverless architecture for robust scalability and security
+  - Developed AI workflow system integrating multiple LLM models for text, image, and PDF processing
+  - Frontend application with React.js and reactflow.js for AI workflow design
+  - Configured OpenTelemetry for Observability and OpenFGA for fine-grained ReBAC
+- **Tech Stack**: TypeScript, Rust, React.js, Node.js, PostgreSQL, AWS Lambda, OpenAI, Claude AI, Gemini
 
-<br />
-<br />
+### **Senior AI Developer** - Turing (Remote)
+*Jun 2024 - Jul 2024*
+- **Stealth AI Project** - Training AI models with JS/TS code debugging
+  - Code review and AI response optimization
+  - AI dataset cleaning and quality assurance
+- **Tech Stack**: React.js, Node.js, TypeScript
+
+### **Staff Software Developer** - RateGain (Hybrid, Noida)
+*Oct 2023 - Apr 2024*
+- **RateGain** - Maximizing revenue for the travel industry through data analytics
+  - Optimized Dataflow pipeline for handling big data from GCS to BigQuery
+  - Upgraded documentation of legacy code and performed code reviews
+- **Tech Stack**: React.js, Node.js, Go Lang, Python, Google Cloud, BigQuery, Dataflow
+
+### **Founding Senior Full Stack Developer** - Roadflex (Remote)
+*Nov 2021 - June 2022*
+- **Roadflex** - Credit card solution for the American trucking industry
+  - Developed entire cloud infrastructure for 5 applications with CI/CD pipeline
+  - Maximized code reusability by 60% using NX monorepo
+  - Optimized backend APIs reducing runtime by 67%
+  - Built robust data recovery system for production databases
+- **Tech Stack**: React.js, Next.js, Node.js, React Native, GraphQL, PostgreSQL, Google Cloud
+
+### **Founder & CEO** - Hbarve Info Tech (OPC) Private Limited
+*Jul 2015 - Jun 2018*
+- **mayash.xyz** - EdTech startup providing multi-language education
+  - Designed platform for delivering education in multiple languages
+  - Implemented scalable architecture handling millions of users
+  - Developed partnerships with educational institutions
+- **Tech Stack**: AngularJS, React.js, Node.js, MySQL, MongoDB, AWS, GCP
 
 ---
 
@@ -90,14 +128,23 @@ Comprehensive showcase of my skills, projects, and technical journey:
 
 ---
 
+## 🎓 Education & Certifications
+
+- **Engineering Fellow** - Pesto Tech (2021)
+- **B.Tech (Computer Science)** - IIT (ISM), Dhanbad (2011-2015)
+- **Blockchain Expert** - Algoexpert.io (2023)
+- **Algo Expert** - Algoexpert.io (2023)
+
+---
+
 ## 🎯 Long-term Vision
 
 - **🔧 Build My Programming Language** - Creating a language that bridges modern development with spiritual principles
 - **🤖 Browser-based Machine Learning** - Democratizing AI through web technologies
 - **🚀 Stealth Startup Success** - Building innovative solutions that make a difference
 - **🌍 Community Building** - Fostering knowledge sharing and collaboration in tech
+- **🏛️ Social Impact** - Leading Mayash Foundation for nation and humanity
 
 ---
 
 *"Technology is not just about code; it's about creating solutions that serve humanity while staying connected to our spiritual essence."*
-
