@@ -58,57 +58,12 @@ Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or 
 
 ---
 
-## 💼 Professional Experience
+## 🎓 Education & Certifications
 
-### **Senior Software Developer** - Torno Solutions (Remote)
-*Jan 2025 - June 2025*
-- **dais.co (Client)** - Building enterprise-grade AI orchestration
-  - Built event-driven serverless architecture for robust scalability and security
-  - Developed AI workflow system integrating multiple LLM models for text, image, and PDF processing
-  - Frontend application with React.js and reactflow.js for AI workflow design
-  - Configured OpenTelemetry for Observability and OpenFGA for fine-grained ReBAC
-- **Tech Stack**: TypeScript, Rust, React.js, Node.js, PostgreSQL, AWS Lambda, OpenAI, Claude AI, Gemini
-
-### **Senior AI Developer** - Turing (Remote)
-*Jun 2024 - Jul 2024*
-- **Stealth AI Project** - Training AI models with JS/TS code debugging
-  - Code review and AI response optimization
-  - AI dataset cleaning and quality assurance
-- **Tech Stack**: React.js, Node.js, TypeScript
-
-### **Staff Software Developer** - RateGain (Hybrid, Noida)
-*Oct 2023 - Apr 2024*
-- **RateGain** - Maximizing revenue for the travel industry through data analytics
-  - Optimized Dataflow pipeline for handling big data from GCS to BigQuery
-  - Upgraded documentation of legacy code and performed code reviews
-- **Tech Stack**: React.js, Node.js, Go Lang, Python, Google Cloud, BigQuery, Dataflow
-
-### **Founding Senior Full Stack Developer** - Roadflex (Remote)
-*Nov 2021 - June 2022*
-- **Roadflex** - Credit card solution for the American trucking industry
-  - Developed entire cloud infrastructure for 5 applications with CI/CD pipeline
-  - Maximized code reusability by 60% using NX monorepo
-  - Optimized backend APIs reducing runtime by 67%
-  - Built robust data recovery system for production databases
-- **Tech Stack**: React.js, Next.js, Node.js, React Native, GraphQL, PostgreSQL, Google Cloud
-
-### **Founder & CEO** - Hbarve Info Tech (OPC) Private Limited
-*Jul 2015 - Jun 2018*
-- **mayash.xyz** - EdTech startup providing multi-language education
-  - Designed platform for delivering education in multiple languages
-  - Implemented scalable architecture handling millions of users
-  - Developed partnerships with educational institutions
-- **Tech Stack**: AngularJS, React.js, Node.js, MySQL, MongoDB, AWS, GCP
-
----
-
-## 📁 Portfolio & Work
-
-### 🎨 Portfolio Website
-Comprehensive showcase of my skills, projects, and technical journey:
-- **[Skills & Expertise](https://hbarve1.com/skills)** - Technical competencies and experience
-- **[Project Portfolio](https://hbarve1.com/projects)** - Featured work and case studies
-- **[Technical Blog](https://hbarve1.com/articles)** - Insights and tutorials
+- **Blockchain Expert** - Algoexpert.io (2023)
+- **Algo Expert** - Algoexpert.io (2023)
+- **Engineering Fellow** - Pesto Tech (2021)
+- **B.Tech (Computer Science)** - IIT (ISM), Dhanbad (2011-2015)
 
 ---
 
@@ -131,15 +86,6 @@ Comprehensive showcase of my skills, projects, and technical journey:
 | **Mandiram** | Social network for Hindu temples and devotees | 📱 Live on Play Store |
 | **RNCamping** | React Native mobile applications | 🚧 In Progress |
 | **GitHub Actions for Firebase** | Automated deployment workflows | 🔧 Live |
-
----
-
-## 🎓 Education & Certifications
-
-- **Blockchain Expert** - Algoexpert.io (2023)
-- **Algo Expert** - Algoexpert.io (2023)
-- **Engineering Fellow** - Pesto Tech (2021)
-- **B.Tech (Computer Science)** - IIT (ISM), Dhanbad (2011-2015)
 
 ---
 
