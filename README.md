@@ -3,7 +3,9 @@
 # Hi there 👋, I'm Himank aka @hbarve1
 
 [![Website](https://img.shields.io/website?label=hbarve1.com&style=for-the-badge&url=https%3A%2F%2Fhbarve1.com)](https://hbarve1.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hbarve1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhbarve1&screen_name=hbarve1)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hbarve1?style=for-the-badge&logo=x)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhbarve1&screen_name=hbarve1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hbarve1)
+
 
 ## 🚀 Senior Software Developer | Entrepreneur | Spiritual Seeker
 
@@ -22,7 +24,7 @@ I'm a **senior software developer with 10+ years of experience** specializing in
 - **Emerging Tech**: Rust, WebAssembly, Machine Learning, Compiler Design
 - **Tools & Practices**: TDD, Data Visualization, Git, CI/CD, Agile Development
 
-### 🎯 2024 Goals
+### 🎯 2025-2026 Goals
 - [ ] **Advanced DSA in TypeScript** with comprehensive TDD approach
 - [ ] **Data Visualization Mastery** - Interactive charts and graphs
 - [ ] **Rust & WebAssembly** - Performance-critical applications
@@ -88,17 +90,6 @@ Comprehensive showcase of my skills, projects, and technical journey:
 
 ---
 
-## 📊 GitHub Analytics
-
-<details>
-  <summary>📈 GitHub Stats</summary>
-
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hbarve1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbarve1&layout=compact&theme=buefy&hide_border=true" />
-</details>
-
----
-
 ## 🎯 Long-term Vision
 
 - **🔧 Build My Programming Language** - Creating a language that bridges modern development with spiritual principles
@@ -110,7 +101,3 @@ Comprehensive showcase of my skills, projects, and technical journey:
 
 *"Technology is not just about code; it's about creating solutions that serve humanity while staying connected to our spiritual essence."*
 
-[website]: https://www.hbarve1.com
-[twitter]: https://www.twitter.com/hbarve1
-[instagram]: https://www.instagram.com/hbarve1
-[linkedin]: https://www.linkedin.com/in/hbarve1
