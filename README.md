@@ -11,11 +11,11 @@
 
 I'm a **senior full stack software engineer with 10+ years of industry experience**, specializing in modern web technologies, AI/ML integration, and building scalable applications. I combine technical expertise with entrepreneurial spirit and spiritual wisdom to create meaningful solutions.
 
-**Location**: Bangalore, India | **Experience**: 10+ Years | **Remote Work**: ✅
+**Experience**: 10+ Years | **Remote Work**: ✅
 
 ## 🎯 Long-term Vision
 
-- **🔧 Build My Programming Language** - Creating a language that fixes the flows in JavaScript and improve development experience.
+- **🔧 Build My Programming Language** - Creating a language that fixes the flows in JavaScript and improve developer experience.
 - **🤖 Browser-based Machine Learning** - Democratizing AI through web technologies
 - **🚀 Stealth Startup** - Building innovative solutions that make a difference
 - **🌍 Community Building** - Fostering knowledge sharing and collaboration in tech
