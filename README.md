@@ -31,10 +31,9 @@ I'm a **senior full stack software developer with 10+ years of industry experien
 - **Frontend**: React.js, Next.js, HTML5 Canvas, PWA, Modern, TailwindCSS, d3.js, 3d Visualisation,
 - **Backend**: Node.js, Python, Rust, GraphQL, REST APIs, Serverless Functions, Express.js
 - **AI/ML**: OpenAI, Claude AI, Gemini, Tensorflow.js, AWS Bedrock, Prompt Engineering
-- **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions, Terraform, CI/CD
+- **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes (k8s), GitHub Actions, Terraform, OpenTofu, CI/CD
 - **Databases**: PostgreSQL, MongoDB, Redis, DynamoDB, MySQL, ElasticSearch, Firestore
 - **Emerging Tech**: WebAssembly, Blockchain (Ethereum, Solidity), Flutter, React Native
-- **DevOps**: Docker, Kubernetes (k8s), Terraform, OpenTofu
 - **Tools & Practices**: TDD, Data Visualization (D3.js), Git, Agile Development, Microservices
 
 ### 🎯 2025-2026 Goals
