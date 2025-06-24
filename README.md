@@ -6,6 +6,7 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hbarve1?style=for-the-badge&logo=x)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhbarve1&screen_name=hbarve1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hbarve1)
 
+
 ## 🚀 Senior Full Stack Software Engineer | Entrepreneur | Spiritual Seeker
 
 I'm a **senior full stack software engineer with 10+ years of industry experience**, specializing in modern web technologies, AI/ML integration, and building scalable applications. I combine technical expertise with entrepreneurial spirit and spiritual wisdom to create meaningful solutions.
