@@ -34,7 +34,7 @@ I'm a **senior full stack software engineer with 10+ years of industry experienc
 
 ### 🛠️ Technical Expertise
 - **Language**: TypeScript, JavaScript (ES6+), Rust, Python, Go, Dart
-- **Frontend**: React.js, Next.js, HTML5 Canvas, PWA, Modern, TailwindCSS, d3.js, 3d Visualisation, React Three Fiber, Three.js
+- **Frontend**: React.js, Next.js, HTML5 Canvas, PWA, Modern, TailwindCSS, d3.js, 3d Visualisation, React Three Fiber, Three.js, Creative Coding with P5.js
 - **Backend**: Node.js, Python, Rust, GraphQL, REST APIs, Serverless Functions, Express.js
 - **AI/ML**: OpenAI, Claude AI, Gemini, Tensorflow.js, AWS Bedrock, Prompt Engineering
 - **Cloud & DevOps**: AWS, GCP, Azure, Docker, Kubernetes (k8s), GitHub Actions, Terraform, OpenTofu, CI/CD
