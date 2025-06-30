@@ -27,7 +27,7 @@ I'm a **senior full stack software engineer with 10+ years of industry experienc
 - [ ] **Quantum Computing** - Learn about Quantum Computing
 
 ### 🎯 Current Focus
-- **AI Orchestration & Workflows** - Building enterprise-grade AI systems with multiple LLM integrations
+- **AI Orchestration & Workflows** - Building enterprise-grade AI systems with multiple LLM and SLM integrations
 - **Event-Driven Serverless Architecture** - Scalable and secure cloud-native solutions
 - **Building my own programming language** - Exploring compiler design and language theory
 - **Machine Learning in the Browser** - Pushing the boundaries of client-side AI
