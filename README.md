@@ -89,6 +89,7 @@ Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or 
 | **HTML5 Canvas Projects** | Interactive canvas apps and animations | Creator | React, Canvas API, Vite | [Live](https://hbarve1-html5-canvas-1.onrender.com) |
 | **Infinite Canvas** | Infinite scrolling and zoom on canvas | Creator | TypeScript, Canvas, Vite | [Live](https://hbarve1-html5-infinite-canvas.onrender.com) |
 | **Flexible Tree** | Interactive tree visualization | Creator | D3.js, Canvas, React | [Live](https://hbarve1-flexible-tree-d3js-canvas.onrender.com) |
+| **Threejs Solar System** | Solar system developed using Three.js | Creator | three.js, Javascript, Vite | [Live](https://hbarve1-threejs-solar-system.onrender.com) |
 
 ---
 
