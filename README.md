@@ -41,6 +41,7 @@ I'm a **senior full stack software engineer with 10+ years of industry experienc
 - **Databases**: PostgreSQL, MongoDB, Redis, DynamoDB, MySQL, ElasticSearch, Firestore
 - **Emerging Tech**: WebAssembly, Blockchain (Ethereum, Solidity), Flutter, React Native
 - **Tools & Practices**: TDD, Data Visualization (D3.js), Git, Agile Development, Microservices
+- **CMS**: StrapiCMS, Medusa.js
   
 ### 🤝 Looking For
 - **Compiler Design Mentorship** - Building my programming language
