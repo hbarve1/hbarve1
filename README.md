@@ -84,6 +84,7 @@ Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or 
 | **Super JS** | Superset of Javascript designed to improve developers experience | Creator | Javascript, Rust, Jest, Open Source | [Live](https://superjs.org) |
 | **Tantra DB** | Simple modular plugin based GraphDB | Creator | Javascript, Jest, Open Source | [Live](https://github.com/hbarve1/tantradb) |
 | **Mayash AI** | Jarvis like AI Assistant | Creator | AI, Audio visualiser | [Live](https://www.mayash.ai) |
+| **TODOS** | Simple TODO app with AppWrite BAAS | Creator | TODOS, React, AppWrite | [Live](https://todos.hbarve1.com) |
 | **Visualise** | Mind Map Visualization for JavaScript ecosystem | Creator, Full Stack Dev | React, D3.js, Canvas | [Live](https://visualise.netlify.app) |
 | **Charts & Graphs** | Chart library documentation and examples | Creator, Frontend | React, Chart.js, D3.js | [Live](https://charts-and-graphs.vercel.app) |
 | **HTML5 Canvas Projects** | Interactive canvas apps and animations | Creator | React, Canvas API, Vite | [Live](https://hbarve1-html5-canvas-1.onrender.com) |
