@@ -85,7 +85,7 @@ Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or 
 | **Super JS** | Superset of Javascript designed to improve developers experience | Creator | Javascript, Rust, Jest, Open Source | [Live](https://superjs.org) |
 | **Tantra DB** | Simple modular plugin based GraphDB | Creator | Javascript, Jest, Open Source | [Live](https://github.com/hbarve1/tantradb) |
 | **Mayash AI** | Jarvis like AI Assistant | Creator | AI, Audio visualiser | [Live](https://www.mayash.ai) |
-| **Adonai HR** | HR Consultancy Company | Customer | React, Tailwind CSS | [Live](https://adonaihr.hbarve1.com) |
+| **Adonai HR** | HR Consultancy Company | Customer | React, Tailwind CSS | [Live](https://adonaihr.com) |
 | **TODOS** | Simple TODO app with AppWrite BAAS | Creator | TODOS, React, AppWrite | [Live](https://todos.hbarve1.com) |
 | **Visualise** | Mind Map Visualization for JavaScript ecosystem | Creator, Full Stack Dev | React, D3.js, Canvas | [Live](https://visualise.netlify.app) |
 | **Charts & Graphs** | Chart library documentation and examples | Creator, Frontend | React, Chart.js, D3.js | [Live](https://charts-and-graphs.vercel.app) |
