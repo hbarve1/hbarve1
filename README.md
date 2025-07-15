@@ -81,6 +81,7 @@ Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or 
 | **HST Powers** | Clean energy buy sell platform | Senior Software Dev | AngularJS, React, Node.js, AWS | [Live](https://www.hstpowers.com) |
 | **Acquire IO** | AI driven customer support platform | Senior Software Dev | Angular.js, React, Node.js, Azure | [Live](https://www.acquire.io) |
 | **Mayash Foundation** | NGO for social causes | Founder & CEO | Web, Social | [Live](https://www.mayash.org) |
+| **Instanews** | Quick News app | Creator | Web, Social | [Live](https://instanews.app) |
 | **Super JS** | Superset of Javascript designed to improve developers experience | Creator | Javascript, Rust, Jest, Open Source | [Live](https://superjs.org) |
 | **Tantra DB** | Simple modular plugin based GraphDB | Creator | Javascript, Jest, Open Source | [Live](https://github.com/hbarve1/tantradb) |
 | **Mayash AI** | Jarvis like AI Assistant | Creator | AI, Audio visualiser | [Live](https://www.mayash.ai) |
