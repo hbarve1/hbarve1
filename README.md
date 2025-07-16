@@ -88,6 +88,10 @@ Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or 
 | **Adonai HR** | HR Consultancy Company | Customer | React, Tailwind CSS | [Live](https://adonaihr.com) |
 | **TODOS** | Simple TODO app with AppWrite BAAS | Creator | TODOS, React, AppWrite | [Live](https://todos.hbarve1.com) |
 | **Library** | Library Application | Creator | React.js, Next.js | [Live](https://library.mayash.org) |
+| **Gurukuls** | Digital Education Platform | Creator | React.js | [Live](https://gurukul.app) |
+| **Gurukuls Prototype** | Gurukuls Prototype | Creator | React.js | [Live](https://gurukuls-prototype.onrender.com/messages) |
+| **Gurukuls Network Graph** | Gurukuls Dataset Network Graph | Creator | HTML, CSS, D3.js | [Live](https://gurukul-network-graph.onrender.com) |
+| **Gurukuls Datasets** | Gurukuls Dataset Analysis | Creator | CSV, XLS, NocoDB(OS Airtable Alternative) | [Github](https://github.com/hbarve1/gurukuls-datasets) |
 | **Visualise** | Mind Map Visualization for JavaScript ecosystem | Creator, Full Stack Dev | React, D3.js, Canvas | [Live](https://visualise.netlify.app) |
 | **Charts & Graphs** | Chart library documentation and examples | Creator, Frontend | React, Chart.js, D3.js | [Live](https://charts-and-graphs.vercel.app) |
 | **HTML5 Canvas Projects** | Interactive canvas apps and animations | Creator | React, Canvas API, Vite | [Live](https://hbarve1-html5-canvas-1.onrender.com) |
