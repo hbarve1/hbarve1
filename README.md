@@ -92,6 +92,8 @@ Ask me about **JavaScript, React.js, Node.js, TypeScript, AI/ML integration, or 
 | **Gurukuls Prototype** | Gurukuls Prototype | Creator | React.js | [Live](https://gurukuls-prototype.onrender.com/messages) |
 | **Gurukuls Network Graph** | Gurukuls Dataset Network Graph | Creator | HTML, CSS, D3.js | [Live](https://gurukul-network-graph.onrender.com) |
 | **Gurukuls Datasets** | Gurukuls Dataset Analysis | Creator | CSV, XLS, NocoDB(OS Airtable Alternative) | [Github](https://github.com/hbarve1/gurukuls-datasets) |
+| **Custodio AI** | AI Based bill and warrenty management platform | Creator | React.js, Supabase, AI, OCR | [Web](https://custodio.ai) |
+| **Homelab** | Simple Selfhost setup for local sofware running | Creator | Docker, Kubernetes, Terraform | [Github](https://github.com/hbarve1/homelab) |
 | **Visualise** | Mind Map Visualization for JavaScript ecosystem | Creator, Full Stack Dev | React, D3.js, Canvas | [Live](https://visualise.netlify.app) |
 | **Charts & Graphs** | Chart library documentation and examples | Creator, Frontend | React, Chart.js, D3.js | [Live](https://charts-and-graphs.vercel.app) |
 | **HTML5 Canvas Projects** | Interactive canvas apps and animations | Creator | React, Canvas API, Vite | [Live](https://hbarve1-html5-canvas-1.onrender.com) |
