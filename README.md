@@ -17,7 +17,7 @@ I'm a **senior full stack software engineer with 10+ years of industry experienc
 
 - **🔧 Build My Programming Language** - Creating a language that fixes the flows in JavaScript and improve developer experience.
 - **🤖 Browser-based Machine Learning** - Democratizing AI through web technologies
-- **🚀 Stealth Startup** - Building innovative solutions that make a difference
+- **🚀 Side Projects** - Building innovative solutions that make a difference
 - **🌍 Community Building** - Fostering knowledge sharing and collaboration in tech
 - **🏛️ Social Impact** - Leading Mayash Foundation for Dharma, Nature, Nation and humanity.
 
